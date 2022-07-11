@@ -1,0 +1,20 @@
+body {
+    background-color: #F37878;
+}
+
+.posts {
+    /* border: 1px solid red; */
+    margin: 10px;
+    padding: 10px;
+    background-color: #F5EDDC;
+    border-radius: 5px;
+}
+
+.post-id {
+    /* border: 1px solid red; */
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background-color: #CFD2CF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
